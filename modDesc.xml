@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="94">
+    <author>Willi Willswissen</author>
+	<contributors>AutoDrive Team</contributors>
+    <version>1.0.0.0</version>
+    <title> 
+        <en>AutoDrive-Reverse To Mapmarker</en>
+        <de>AutoDrive-Rückwärts Zum Zielpunkt</de>
+    </title>
+    <description>
+        <en> <![CDATA[
+
+Layout for AD reverse to mapmarker.
+]]>
+        </en>
+        <de> <![CDATA[
+
+Layout für rückwerts zum Zielpunkt.
+]]>
+        </de>
+    </description>
+    
+    <l10n>
+        <text name="storeItem_reverseToMapmarker25m"> <en>AD-reverse to mapmarker 25m</en> <de>AD-rückwärts zum Zielpunkt 50m</de> </text>
+        <text name="storeItem_reverseToMapmarker50m"> <en>AD-reverse to mapmarker 50m</en> <de>AD-rückwärts zum Zielpunkt 25m</de> </text>
+    </l10n>
+
+    <multiplayer supported="true"/>
+    <iconFilename>icon_AutoDrive_reverseToMapmarker.png</iconFilename>
+
+    <storeItems>
+		<storeItem xmlFilename="reverseToMapmarker-25m.xml"/>
+		<storeItem xmlFilename="reverseToMapmarker-50m.xml"/>
+    </storeItems>
+</modDesc>

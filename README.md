@@ -22,7 +22,7 @@ Verlasst ihr nach der Platzierung das Baumenü, werden die Wegpunkte einer AD R�
 Ihr könnt diese dann mit eurem Streckennetz verbinden. Das gelbe Kreuz kann über des Baumenü wieder verkauft werden.
 Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehört.
 
-## Placeable Crossings (separate mod)
+## Reverse To Marker (separate mod)
 With this mod you can build a ready-made AD return route on the map.
 You can use this route for parking spaces or entrances to a bunker silo, for example.
 In the construction menu under Decorations - Other you will find two return lanes with lengths of 25m and 50m.

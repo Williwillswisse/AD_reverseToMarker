@@ -21,8 +21,8 @@ Layout für rückwerts zum Zielpunkt.
     </description>
     
     <l10n>
-        <text name="storeItem_reverseToMapmarker25m"> <en>AD-reverse to mapmarker 25m</en> <de>AD-rückwärts zum Zielpunkt 50m</de> </text>
-        <text name="storeItem_reverseToMapmarker50m"> <en>AD-reverse to mapmarker 50m</en> <de>AD-rückwärts zum Zielpunkt 25m</de> </text>
+        <text name="storeItem_reverseToMapmarker25m"> <en>AD-reverse to mapmarker 25m</en> <de>AD-rückwärts zum Zielpunkt 25m</de> </text>
+        <text name="storeItem_reverseToMapmarker50m"> <en>AD-reverse to mapmarker 50m</en> <de>AD-rückwärts zum Zielpunkt 50m</de> </text>
     </l10n>
 
     <multiplayer supported="true"/>

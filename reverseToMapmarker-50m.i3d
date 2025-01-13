@@ -60,7 +60,7 @@
         <TransformGroup name="positionRef3" translation="3 0 -3" clipDistance="300" nodeId="34"/>
       </TransformGroup>
       <TransformGroup name="tipCollision" clipDistance="300" nodeId="35"/>
-      <TransformGroup name="visuals" rotation="0 180 0" clipDistance="300" nodeId="36">
+      <TransformGroup name="visuals" translation="0 0 -25" rotation="0 180 0" clipDistance="300" nodeId="36">
         <Shape name="marker" translation="0 0.3 0" shapeId="1" clipDistance="100" nodeId="37" castsShadows="false" receiveShadows="false" materialIds="5"/>
         <Shape name="plane" translation="0 1.25 -25" shapeId="2" static="true" collisionFilterGroup="0x10000000" collisionFilterMask="0x10000000" clipDistance="300" nodeId="38" castsShadows="false" receiveShadows="false" nonRenderable="true" distanceBlending="false" materialIds="11"/>
         <Shape name="cube" translation="0 0 -3.5" scale="0.0501617 0.5 5" shapeId="3" clipDistance="300" nodeId="39" castsShadows="false" receiveShadows="false" distanceBlending="false" materialIds="8"/>

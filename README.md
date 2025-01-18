@@ -7,7 +7,7 @@ FS25 version of the FS25_AutoDrive_reverseToMarker mod
 Direct Download: https://github.com/Williwillswisse/AD_reverseToMarker/releases/latest/download/FS25_AutoDrive_reverseToMarker.zip
 
 ## Tutorial Video (German):
-https://youtu.be/fyLikv3C4Mw
+https://youtu.be/N1hpRNRS7kc
 
 ## Discord Server:
 For help & support, feel free to join us on Discord: 

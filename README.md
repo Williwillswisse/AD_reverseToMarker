@@ -35,3 +35,5 @@ You need a mod that allows you to place them on land that does not belong to you
 ![image](https://github.com/user-attachments/assets/b2e1457c-b782-4d71-95c3-980f2e8f7bf2)
 
 ![image](https://github.com/user-attachments/assets/d8cd3bbc-f3b2-4d10-a46d-818012a87671)
+
+![image](https://github.com/user-attachments/assets/039603c6-2c82-4cfd-adf3-35dbc2349344)

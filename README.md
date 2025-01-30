@@ -1,7 +1,7 @@
 # FS25_AutoDrive_reverseToMarker
 FS25 version of the FS25_AutoDrive_reverseToMarker mod
 
-### Latest Release: 1.0.0.0
+### Latest Release: 1.0.0.1
 ![GitHub all releases](https://img.shields.io/github/downloads/Williwillswisse/AD_reverseToMarker/total?label=Downloads&style=plastic)
 
 Direct Download: https://github.com/Williwillswisse/AD_reverseToMarker/releases/latest/download/FS25_AutoDrive_reverseToMarker.zip
@@ -16,7 +16,7 @@ https://discord.gg/2XfnM59DFy
 ## Rückwärts zum Zielpunkt (separater Mod)
 Mit diesem Mod könnt ihr euch eine fertige AD Rückfahrstrecke auf der Map bauen.
 Diese Strecke könnt ihr z.B. für Parkplätze oder Einfahrten in ein Bunker Silo verwenden.
-Ihr findet im Baumenü unter Dekorationen - Sonstiges zwei Rüchfahrspuren in den Längen 25m und 50m.
+Ihr findet im Baumenü unter Dekorationen - Sonstiges zwei Rüchfahrspuren in den Längen 25m, 50m, 75m und 100m.
 Diese Rückfahrstrecken haben eine Positionierhilfe (gelbes Kreuz) um sie auszurichten.
 Verlasst ihr nach der Platzierung das Baumenü, werden die Wegpunkte einer AD Rückfahrstrecke mit einem Zielpunkt am Ende angelegt.
 Ihr könnt diese dann mit eurem Streckennetz verbinden. Das gelbe Kreuz kann über des Baumenü wieder verkauft werden.
@@ -25,7 +25,7 @@ Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehö
 ## Reverse To Marker (separate mod)
 With this mod you can build a ready-made AD return route on the map.
 You can use this route for parking spaces or entrances to a bunker silo, for example.
-In the construction menu under Decorations - Other you will find two return lanes with lengths of 25m and 50m.
+In the construction menu under Decorations - Other you will find two return lanes with lengths of 25m, 50m, 75m and 100m.
 These return routes have a positioning aid (yellow cross) to align them.
 If you leave the construction menu after placing them, the waypoints of an AD return route are created with a destination point at the end.
 You can then connect these to your route network. The yellow cross can be sold again via the construction menu.

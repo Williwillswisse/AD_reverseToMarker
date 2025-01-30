@@ -2,7 +2,7 @@
 <modDesc descVersion="94">
     <author>Willi Willswissen</author>
 	<contributors>AutoDrive Team</contributors>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title> 
         <en>AutoDrive-Reverse To Mapmarker</en>
         <de>AutoDrive-Rückwärts Zum Zielpunkt</de>
@@ -20,6 +20,9 @@ If you leave the construction menu after placing them, the waypoints of an AD re
 You can then connect these to your route network. The yellow cross can be sold again via the construction menu.
 You need a mod that allows you to place them on land that does not belong to you.
 
+Changelog 1.0.0.1:
+- Added routes with 75m and 100m
+
 ]]>
         </en>
         <de> <![CDATA[
@@ -34,6 +37,9 @@ Verlasst ihr nach der Platzierung das Baumenü, werden die Wegpunkte einer AD R�
 Ihr könnt diese dann mit eurem Streckennetz verbinden. Das gelbe Kreuz kann über des Baumenü wieder verkauft werden.
 Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehört.
 
+Changelog 1.0.0.1:
+- Rückfahstrecken mit 75m und 100m hinzugefügt
+
 ]]>
         </de>
     </description>
@@ -41,6 +47,8 @@ Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehö
     <l10n>
         <text name="storeItem_reverseToMapmarker25m"> <en>AD-reverse to mapmarker 25m</en> <de>AD-rückwärts zum Zielpunkt 25m</de> </text>
         <text name="storeItem_reverseToMapmarker50m"> <en>AD-reverse to mapmarker 50m</en> <de>AD-rückwärts zum Zielpunkt 50m</de> </text>
+        <text name="storeItem_reverseToMapmarker75m"> <en>AD-reverse to mapmarker 75m</en> <de>AD-rückwärts zum Zielpunkt 75m</de> </text>
+        <text name="storeItem_reverseToMapmarker100m"> <en>AD-reverse to mapmarker 100m</en> <de>AD-rückwärts zum Zielpunkt 100m</de> </text>
     </l10n>
 
     <multiplayer supported="true"/>
@@ -49,5 +57,7 @@ Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehö
     <storeItems>
 		<storeItem xmlFilename="reverseToMapmarker-25m.xml"/>
 		<storeItem xmlFilename="reverseToMapmarker-50m.xml"/>
+		<storeItem xmlFilename="reverseToMapmarker-75m.xml"/>
+		<storeItem xmlFilename="reverseToMapmarker-100m.xml"/>
     </storeItems>
 </modDesc>

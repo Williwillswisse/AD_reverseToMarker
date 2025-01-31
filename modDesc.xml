@@ -2,7 +2,7 @@
 <modDesc descVersion="94">
     <author>Willi Willswissen</author>
 	<contributors>AutoDrive Team</contributors>
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
     <title> 
         <en>AutoDrive-Reverse To Mapmarker</en>
         <de>AutoDrive-Rückwärts Zum Zielpunkt</de>
@@ -22,6 +22,8 @@ You need a mod that allows you to place them on land that does not belong to you
 
 Changelog 1.0.0.1:
 - Added routes with 75m and 100m
+Changelog 1.0.0.2:
+- Removed some obsolete code
 
 ]]>
         </en>
@@ -39,6 +41,8 @@ Ihr braucht einen Mod, der das Platzieren auf Land erlaubt, das euch nicht gehö
 
 Changelog 1.0.0.1:
 - Rückfahstrecken mit 75m und 100m hinzugefügt
+Changelog 1.0.0.2:
+- Überflüssigen Code entfernt
 
 ]]>
         </de>
